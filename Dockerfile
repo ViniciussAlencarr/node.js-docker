@@ -1,6 +1,6 @@
 FROM node:alpine
 
-WORKDIR /Documentos/GitHub
+WORKDIR /Documentos/GitHu
 
 COPY package*.json ./
 
